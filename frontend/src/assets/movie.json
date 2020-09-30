@@ -1,0 +1,76 @@
+{
+    "movie": [
+    {
+        "movieId": 3001,
+        "movieName": "Bahubali",
+        "language": "Telugu",
+        "director": "Rajamouli",
+        "genre": "Periodic",
+        "active": 1,
+        "releaseDt": "2019-07-12"
+    },
+    {
+        "movieId": 3002,
+        "movieName": "Bahubali2",
+        "language": "Telugu",
+        "director": "Rajamouli",
+        "genre": "Periodic",
+        "active": 1,
+        "releaseDt": "2019-09-12"
+    },
+    {
+        "movieId": 3005,
+        "movieName": "Dilbechara",
+        "language": "Hindi",
+        "director": "Mukesh",
+        "genre": "Action",
+        "active": 1,
+        "releaseDt": "2020-08-09"
+    },
+    {
+        "movieId": 3006,
+        "movieName": "Frozen",
+        "language": "English",
+        "director": "Jennifer",
+        "genre": "Action",
+        "active": 1,
+        "releaseDt": "2019-09-08"
+    },
+    {
+        "movieId": 3007,
+        "movieName": "Frozen2",
+        "language": "English",
+        "director": "Jennifer",
+        "genre": "Action",
+        "active": 1,
+        "releaseDt": "2018-03-05"
+    },
+    {
+        "movieId": 3004,
+        "movieName": "Tanqdeer",
+        "language": "Hindi",
+        "director": "Vikram",
+        "genre": "Action",
+        "active": 1,
+        "releaseDt": "2018-02-10"
+    },
+    {
+        "movieId": 3003,
+        "movieName": "V",
+        "language": "Telugu",
+        "director": "Shiva",
+        "genre": "Action",
+        "active": 1,
+        "releaseDt": "2020-09-11"
+    },
+    {
+        "movieId": 3008,
+        "movieName": "War",
+        "language": "Hindi",
+        "director": "Karan",
+        "genre": "Action",
+        "active": 1,
+        "releaseDt": "2018-02-12"
+    }
+]
+}
